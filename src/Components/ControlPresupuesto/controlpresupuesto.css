@@ -1,0 +1,27 @@
+.alert{
+    font-weight: bold;
+    padding: 5px 15px;
+    margin-top: 10px;
+    border-radius: 5px; 
+}
+
+.alert-primary{
+    background:rgb(0, 162, 255,0.3);
+    color:rgb(0, 162, 255);
+}
+
+.alert-success{
+  background:rgba(0, 128, 0, 0.3);
+  color:green;
+}
+
+.alert-warning{
+  background:rgb(255, 255, 0, 0.3);  
+  color:rgb(0,0, 0, 0.8);
+}
+
+.alert-danger{
+  background:rgb(255, 0, 0, 0.3);  
+  color:red;
+}
+

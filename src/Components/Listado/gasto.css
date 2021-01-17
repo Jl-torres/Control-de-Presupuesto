@@ -1,0 +1,19 @@
+.contenedor-gasto{
+    width: 50%;
+}
+
+.contenedor-gasto  li {
+    list-style: none;
+    font-weight: bold;
+}
+
+.contenedor-gasto  span{
+    background: rgb(0, 162, 255);;
+    padding: 5px 10px;
+    color:white;
+}
+
+.contenedor2{
+    display: flex;
+    justify-content: space-between;
+}
